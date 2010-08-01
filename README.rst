@@ -12,8 +12,11 @@ same name, e.g. ``1016.jpg``.
 There are 951 test/training image pairs in this corpus.
 
 
-Screenshots
------------
+Sample Images
+-------------
+
+==================================================================================  ===============================================================================
+Training Image                                                                      Test Image
 ==================================================================================  ===============================================================================
 .. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/1016.jpg  .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/1016.jpg
 
