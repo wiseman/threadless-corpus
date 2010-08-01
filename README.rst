@@ -19,11 +19,11 @@ Screenshots
 
 .. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/1055.jpg  .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/1055.jpg
 
-.. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/399.jpg  .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/399.jpg
+.. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/399.jpg   .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/399.jpg
 
-.. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/458.jpg  .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/458.jpg
+.. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/458.jpg   .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/458.jpg
 
-.. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/657.jpg  .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/657.jpg
+.. image:: http://github.com/wiseman/threadless-corpus/raw/master/pattern/657.jpg   .. image:: http://github.com/wiseman/threadless-corpus/raw/master/worn/657.jpg
 ==================================================================================  ===============================================================================
 
 
