@@ -30,5 +30,13 @@ Training Image                                                                  
 ==================================================================================  ===============================================================================
 
 
+Example Match
+-------------
+
+Here's an example of finding matching features in two images using `Rob Hess' SIFT code`_:
+
+.. image:: http://github.com/wiseman/threadless-corpus/raw/master/sample-match-904.jpg
+
 
 .. _Threadless T-shirt web site: http://threadless.com/
+.. _Rob Hess' SIFT code: http://web.engr.oregonstate.edu/~hess/
