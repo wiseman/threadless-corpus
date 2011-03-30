@@ -15,9 +15,9 @@ There are 951 test/training image pairs in this corpus.
 Sample Images
 -------------
 
-==================================================================================  ===============================================================================
-Training Image                                                                      Test Image
-==================================================================================  ===============================================================================
+===================================================================================  ================================================================================
+Training Image                                                                       Test Image
+===================================================================================  ================================================================================
 .. image:: https://github.com/wiseman/threadless-corpus/raw/master/pattern/1016.jpg  .. image:: https://github.com/wiseman/threadless-corpus/raw/master/worn/1016.jpg
 
 .. image:: https://github.com/wiseman/threadless-corpus/raw/master/pattern/1055.jpg  .. image:: https://github.com/wiseman/threadless-corpus/raw/master/worn/1055.jpg
@@ -27,7 +27,7 @@ Training Image                                                                  
 .. image:: https://github.com/wiseman/threadless-corpus/raw/master/pattern/458.jpg   .. image:: https://github.com/wiseman/threadless-corpus/raw/master/worn/458.jpg
 
 .. image:: https://github.com/wiseman/threadless-corpus/raw/master/pattern/657.jpg   .. image:: https://github.com/wiseman/threadless-corpus/raw/master/worn/657.jpg
-==================================================================================  ===============================================================================
+===================================================================================  ================================================================================
 
 
 Example Match
